@@ -1,1 +1,2 @@
-# microservices-config-15
+# microservices-config
+Central repository configurations 
